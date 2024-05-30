@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mathfinder/static/css/main.96b17e81.css",
-    "main.js": "/mathfinder/static/js/main.fdc1a82b.js",
-    "static/js/453.2a0906f0.chunk.js": "/mathfinder/static/js/453.2a0906f0.chunk.js",
-    "static/media/SF-Pro-Text-Bold.otf": "/mathfinder/static/media/SF-Pro-Text-Bold.f321f7b8a04248a4394c.otf",
-    "static/media/SF-Pro-Text-Light.otf": "/mathfinder/static/media/SF-Pro-Text-Light.9f516e09570f34609f07.otf",
-    "static/media/SF-Pro-Text-Ultralight.otf": "/mathfinder/static/media/SF-Pro-Text-Ultralight.3f9d83a1c235642a5a68.otf",
-    "static/media/SF-Pro-Text-Regular.otf": "/mathfinder/static/media/SF-Pro-Text-Regular.ba21d41dbb34b2e04643.otf",
-    "static/media/wd.png": "/mathfinder/static/media/wd.30c63683fb36f0298511.png",
-    "index.html": "/mathfinder/index.html",
-    "main.96b17e81.css.map": "/mathfinder/static/css/main.96b17e81.css.map",
-    "main.fdc1a82b.js.map": "/mathfinder/static/js/main.fdc1a82b.js.map",
-    "453.2a0906f0.chunk.js.map": "/mathfinder/static/js/453.2a0906f0.chunk.js.map"
+    "main.css": "/mf/static/css/main.3ccc3bd0.css",
+    "main.js": "/mf/static/js/main.df6a41b1.js",
+    "static/js/453.2a0906f0.chunk.js": "/mf/static/js/453.2a0906f0.chunk.js",
+    "static/media/SF-Pro-Text-Bold.otf": "/mf/static/media/SF-Pro-Text-Bold.f321f7b8a04248a4394c.otf",
+    "static/media/SF-Pro-Text-Light.otf": "/mf/static/media/SF-Pro-Text-Light.9f516e09570f34609f07.otf",
+    "static/media/SF-Pro-Text-Ultralight.otf": "/mf/static/media/SF-Pro-Text-Ultralight.3f9d83a1c235642a5a68.otf",
+    "static/media/SF-Pro-Text-Regular.otf": "/mf/static/media/SF-Pro-Text-Regular.ba21d41dbb34b2e04643.otf",
+    "static/media/wd.png": "/mf/static/media/wd.30c63683fb36f0298511.png",
+    "index.html": "/mf/index.html",
+    "main.3ccc3bd0.css.map": "/mf/static/css/main.3ccc3bd0.css.map",
+    "main.df6a41b1.js.map": "/mf/static/js/main.df6a41b1.js.map",
+    "453.2a0906f0.chunk.js.map": "/mf/static/js/453.2a0906f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96b17e81.css",
-    "static/js/main.fdc1a82b.js"
+    "static/css/main.3ccc3bd0.css",
+    "static/js/main.df6a41b1.js"
   ]
 }

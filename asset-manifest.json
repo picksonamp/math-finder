@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//pickonamp.github.io/mathfinder/static/css/main.acf24c6c.css",
-    "main.js": "/https//pickonamp.github.io/mathfinder/static/js/main.8bdbf72b.js",
-    "static/js/453.2a0906f0.chunk.js": "/https//pickonamp.github.io/mathfinder/static/js/453.2a0906f0.chunk.js",
-    "static/media/SF-Pro-Text-Bold.otf": "/https//pickonamp.github.io/mathfinder/static/media/SF-Pro-Text-Bold.f321f7b8a04248a4394c.otf",
-    "static/media/SF-Pro-Text-Light.otf": "/https//pickonamp.github.io/mathfinder/static/media/SF-Pro-Text-Light.9f516e09570f34609f07.otf",
-    "static/media/SF-Pro-Text-Ultralight.otf": "/https//pickonamp.github.io/mathfinder/static/media/SF-Pro-Text-Ultralight.3f9d83a1c235642a5a68.otf",
-    "static/media/SF-Pro-Text-Regular.otf": "/https//pickonamp.github.io/mathfinder/static/media/SF-Pro-Text-Regular.ba21d41dbb34b2e04643.otf",
-    "static/media/wd.png": "/https//pickonamp.github.io/mathfinder/static/media/wd.30c63683fb36f0298511.png",
-    "index.html": "/https//pickonamp.github.io/mathfinder/index.html",
-    "main.acf24c6c.css.map": "/https//pickonamp.github.io/mathfinder/static/css/main.acf24c6c.css.map",
-    "main.8bdbf72b.js.map": "/https//pickonamp.github.io/mathfinder/static/js/main.8bdbf72b.js.map",
-    "453.2a0906f0.chunk.js.map": "/https//pickonamp.github.io/mathfinder/static/js/453.2a0906f0.chunk.js.map"
+    "main.css": "/mathfinder/static/css/main.96b17e81.css",
+    "main.js": "/mathfinder/static/js/main.4175d6b9.js",
+    "static/js/453.2a0906f0.chunk.js": "/mathfinder/static/js/453.2a0906f0.chunk.js",
+    "static/media/SF-Pro-Text-Bold.otf": "/mathfinder/static/media/SF-Pro-Text-Bold.f321f7b8a04248a4394c.otf",
+    "static/media/SF-Pro-Text-Light.otf": "/mathfinder/static/media/SF-Pro-Text-Light.9f516e09570f34609f07.otf",
+    "static/media/SF-Pro-Text-Ultralight.otf": "/mathfinder/static/media/SF-Pro-Text-Ultralight.3f9d83a1c235642a5a68.otf",
+    "static/media/SF-Pro-Text-Regular.otf": "/mathfinder/static/media/SF-Pro-Text-Regular.ba21d41dbb34b2e04643.otf",
+    "static/media/wd.png": "/mathfinder/static/media/wd.30c63683fb36f0298511.png",
+    "index.html": "/mathfinder/index.html",
+    "main.96b17e81.css.map": "/mathfinder/static/css/main.96b17e81.css.map",
+    "main.4175d6b9.js.map": "/mathfinder/static/js/main.4175d6b9.js.map",
+    "453.2a0906f0.chunk.js.map": "/mathfinder/static/js/453.2a0906f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acf24c6c.css",
-    "static/js/main.8bdbf72b.js"
+    "static/css/main.96b17e81.css",
+    "static/js/main.4175d6b9.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mathfinder/static/css/main.96b17e81.css",
-    "main.js": "/mathfinder/static/js/main.4175d6b9.js",
+    "main.js": "/mathfinder/static/js/main.fdc1a82b.js",
     "static/js/453.2a0906f0.chunk.js": "/mathfinder/static/js/453.2a0906f0.chunk.js",
     "static/media/SF-Pro-Text-Bold.otf": "/mathfinder/static/media/SF-Pro-Text-Bold.f321f7b8a04248a4394c.otf",
     "static/media/SF-Pro-Text-Light.otf": "/mathfinder/static/media/SF-Pro-Text-Light.9f516e09570f34609f07.otf",
@@ -10,11 +10,11 @@
     "static/media/wd.png": "/mathfinder/static/media/wd.30c63683fb36f0298511.png",
     "index.html": "/mathfinder/index.html",
     "main.96b17e81.css.map": "/mathfinder/static/css/main.96b17e81.css.map",
-    "main.4175d6b9.js.map": "/mathfinder/static/js/main.4175d6b9.js.map",
+    "main.fdc1a82b.js.map": "/mathfinder/static/js/main.fdc1a82b.js.map",
     "453.2a0906f0.chunk.js.map": "/mathfinder/static/js/453.2a0906f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96b17e81.css",
-    "static/js/main.4175d6b9.js"
+    "static/js/main.fdc1a82b.js"
   ]
 }
